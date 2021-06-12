@@ -1,0 +1,12 @@
+C:\Users\guns-\CLionProjects\imageProcessing\target\debug\deps\bytemuck-16b20a7324b1b65e.rmeta: C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\lib.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\zeroable.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\pod.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\contiguous.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\offset_of.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\transparent.rs
+
+C:\Users\guns-\CLionProjects\imageProcessing\target\debug\deps\libbytemuck-16b20a7324b1b65e.rlib: C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\lib.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\zeroable.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\pod.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\contiguous.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\offset_of.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\transparent.rs
+
+C:\Users\guns-\CLionProjects\imageProcessing\target\debug\deps\bytemuck-16b20a7324b1b65e.d: C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\lib.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\zeroable.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\pod.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\contiguous.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\offset_of.rs C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\transparent.rs
+
+C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\lib.rs:
+C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\zeroable.rs:
+C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\pod.rs:
+C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\contiguous.rs:
+C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\offset_of.rs:
+C:\Users\guns-\.cargo\registry\src\github.com-1ecc6299db9ec823\bytemuck-1.6.1\src\transparent.rs:
